@@ -1,0 +1,1 @@
+speAnal('test_16k.wav', 13000, 400); 
